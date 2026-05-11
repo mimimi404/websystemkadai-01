@@ -1,3 +1,3 @@
 # Webシステム
 
-fizzbuzz課題
+fizz_buzz,prime_number課題
